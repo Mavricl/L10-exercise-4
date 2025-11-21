@@ -40,7 +40,7 @@ Smooth layout using React Native + Expo.
 
 Screenshots of the app:
 
-![Screenshot 1](./doc/Activity4-Screenshot.png)
+<p align="center"> <img src="./docs/Activity4-Screenshot.png" width="350" alt="League of Legends App Screenshot"> </p>
 
 Video walkthrough of the app:
 [Click here to watch the video](./docs/Activity4-demo.mp4)
