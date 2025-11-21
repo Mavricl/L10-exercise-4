@@ -40,10 +40,10 @@ Smooth layout using React Native + Expo.
 
 Screenshots of the app:
 
-![Screenshot 1](./docs/Screenshot.png)
+![Screenshot 1](./doc/Activity4-Screenshot.png)
 
 Video walkthrough of the app:
-[Click here to watch the video](./docs/Demo.mp4)
+[Click here to watch the video](./docs/Activity4-demo.mp4)
 
 
 ------------
