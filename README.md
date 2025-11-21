@@ -41,16 +41,16 @@ Smooth layout using React Native + Expo.
 ## Screenshots of the app:
 
 <p align="center">
-  <img src="./docs/Activity4-Screenshot.png" width="350">
+  <img src="./doc/Activity4-Screenshot.png" width="350">
 </p>
 
 ## Video walkthrough of the app:
 
-[Click here to watch the video](./docs/Activity4-demo.mp4)
+[Click here to watch the video](./doc/Activity4-demo.mp4)
 
 ## Download APK:
 
-[Download APK](./docs/app-release.apk)
+[Download APK](./doc/app-release.apk)
 
 
 
