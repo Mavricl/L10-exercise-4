@@ -38,18 +38,19 @@ Smooth layout using React Native + Expo.
 
 -----------
 
-Screenshots of the app:
+## Screenshots of the app:
 
-<p align="center"> <img src="./docs/Activity4-Screenshot.png" width="350" alt="League of Legends App Screenshot"> </p>
+<p align="center">
+  <img src="./docs/Activity4-Screenshot.png" width="350">
+</p>
 
-Video walkthrough of the app:
+## Video walkthrough of the app:
+
 [Click here to watch the video](./docs/Activity4-demo.mp4)
 
+## Download APK:
 
-------------
-
-Feel free to download this app to your phone:
-Link to APK file of the app: [Download APK](./docs/app-release.apk)
+[Download APK](./docs/app-release.apk)
 
 
 
